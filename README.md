@@ -1,6 +1,8 @@
-## Hi there 👋
+<h1>🤵 TutoMine</h1>
 
-<div style="display:flex; align-items: center; justify-content:center">
-  <img src="https://cdn.discordapp.com/avatars/687620089712869405/dc9a59affcc5e5a5b43821c248ce6549.png?size=1024">
-  # TutoMine
-</div>
+## Full-Stack developer
+
+### Proyects
+- <a href="https://greathost.es">GreatHost</a>: A free/paid minecraft/vps hosting. Powered by a made by 0 panel.
+
+### <a href="https://discord.com/users/687620089712869405">Discord</a>
